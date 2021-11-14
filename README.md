@@ -1,5 +1,7 @@
 # Lab 8 - Starter
 
+# Elias Arghand
+
 # 1. Within a Github action that runs whenever code is pushed because when any new changes are pushed, we can test to see if that specific change will cause the program to crash.
 
 # 2. No
